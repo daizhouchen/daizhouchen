@@ -71,9 +71,11 @@ def main():
         if meta.get("archived"):
             continue  # archived = "old", skip from "recently shipped"
         desc = (meta.get("description") or "").strip()
+        if not desc:
+            continue  # skip repos without a description (looks bad in list)
         # truncate long descriptions
-        if len(desc) > 80:
-            desc = desc[:77] + "…"
+        if len(desc) > 100:
+            desc = desc[:97] + "…"
         date = created_at[:10]
         name = repo.split("/")[-1]
         rows.append(f"- [{name}](https://github.com/{repo}) — {desc} · `{date}`")
