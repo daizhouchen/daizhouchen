@@ -40,11 +40,11 @@
 ## 刚做完
 <!-- BEGIN recently-pushed -->
 
-- [openclaw-skills](https://github.com/daizhouchen/openclaw-skills) — 11 days, 11 skills · 一次集中实验 · `2026-05-07`
-- [jd-interview-prep](https://github.com/daizhouchen/jd-interview-prep) — 把一份 JD 反推成面试作战地图 · `2026-05-06`
-- [book-distiller](https://github.com/daizhouchen/book-distiller) — 把一本书蒸馏成中文典雅风 HTML 网页 · `2026-05-06`
-- [domain-onboarding](https://github.com/daizhouchen/domain-onboarding) — 60-90 分钟从 0 到 1 拿下一个领域 · `2026-05-05`
-- [movie-distiller](https://github.com/daizhouchen/movie-distiller) — 把一部电影蒸馏成 HTML · `2026-05-05`
+- [openclaw-skills](https://github.com/daizhouchen/openclaw-skills) — 11 days, 11 skills — 一次集中实验。10 个 Claude Code Skill 合集 + 链接到 superpm。 · `2026-05-07`
+- [book-distiller](https://github.com/daizhouchen/book-distiller) — 把一本书蒸馏成一张中文典雅风 HTML 网页——事实支撑观点，揭示系统逻辑。A Claude Code Skill for distilling book… · `2026-05-06`
+- [domain-onboarding](https://github.com/daizhouchen/domain-onboarding) — 30/60/90 分钟从 0 到 1 拿下一个领域 · 单文件典雅 HTML · Claude Code skill 融合 book-distiller … · `2026-05-05`
+- [movie-distiller](https://github.com/daizhouchen/movie-distiller) — 把一部电影蒸馏成一张高质量中文典雅风网页——具体的画面、具体的声音、具体的人。book-distiller 的姊妹项目。 · `2026-05-05`
+- [scale-operations](https://github.com/daizhouchen/scale-operations) —  · `2026-04-25`
 
 <!-- END recently-pushed -->
 
