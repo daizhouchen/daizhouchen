@@ -40,11 +40,11 @@
 ## 刚做完
 <!-- BEGIN recently-pushed -->
 
-- [openclaw-skills](https://github.com/daizhouchen/openclaw-skills) — 11 days, 11 skills — 一次集中实验。10 个 Claude Code Skill 合集 + 链接到 superpm。 · `2026-05-07`
-- [book-distiller](https://github.com/daizhouchen/book-distiller) — 把一本书蒸馏成一张中文典雅风 HTML 网页——事实支撑观点，揭示系统逻辑。A Claude Code Skill for distilling books into elegant Chine… · `2026-05-06`
-- [domain-onboarding](https://github.com/daizhouchen/domain-onboarding) — 30/60/90 分钟从 0 到 1 拿下一个领域 · 单文件典雅 HTML · Claude Code skill 融合 book-distiller + prism-research · `2026-05-05`
-- [movie-distiller](https://github.com/daizhouchen/movie-distiller) — 把一部电影蒸馏成一张高质量中文典雅风网页——具体的画面、具体的声音、具体的人。book-distiller 的姊妹项目。 · `2026-05-05`
-- [tool-mastery](https://github.com/daizhouchen/tool-mastery) — A Claude skill that turns 'what is X and how do I use it?' into a polished single-file HTML site … · `2026-04-24`
+- [jd-interview-arsenal](https://github.com/daizhouchen/jd-interview-arsenal) — Knowledge Arsenal builder for AI PM interviews · 6 大 Library × 7 slot 标准化武器卡 · 配套 jd-interview-pr… · `2026-05-07`
+- [jd-interview-prep](https://github.com/daizhouchen/jd-interview-prep) — 把一份 JD 反推成一张面试作战地图 · 三层结构（战略/战术/话术）· AI PM 方向特化 · 单文件 HTML 典雅风 · Claude Code skill · `2026-05-07`
+- [resume-builder](https://github.com/daizhouchen/resume-builder) — Claude skill: 5+1 阶段流程的简历导师 — 国际商务高级视觉调 + 内化的内容引擎（Spence 信号传递 / 金字塔原理 / 英雄之旅 / 文化资本） · `2026-05-07`
+- [wechat-mp-writer](https://github.com/daizhouchen/wechat-mp-writer) — 微信公众号内容创作与发布 Claude Code Skill · `2026-05-07`
+- [market-research-skill](https://github.com/daizhouchen/market-research-skill) — Adaptive market demand analysis skill for Claude Code - 自适应市场需求分析 Skill · `2026-05-07`
 
 <!-- END recently-pushed -->
 
