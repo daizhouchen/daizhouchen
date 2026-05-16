@@ -40,7 +40,7 @@
 ## 刚做完
 <!-- BEGIN recently-pushed -->
 
-- [wechat-mp-writer](https://github.com/daizhouchen/wechat-mp-writer) — 微信公众号内容创作与发布 Claude Code Skill · `2026-05-14`
+- [wechat-mp-writer](https://github.com/daizhouchen/wechat-mp-writer) — 微信公众号内容创作与发布 Claude Code Skill · `2026-05-15`
 - [jd-interview-arsenal](https://github.com/daizhouchen/jd-interview-arsenal) — Knowledge Arsenal builder for AI PM interviews · 6 大 Library × 7 slot 标准化武器卡 · 配套 jd-interview-pr… · `2026-05-07`
 - [jd-interview-prep](https://github.com/daizhouchen/jd-interview-prep) — 把一份 JD 反推成一张面试作战地图 · 三层结构（战略/战术/话术）· AI PM 方向特化 · 单文件 HTML 典雅风 · Claude Code skill · `2026-05-07`
 - [resume-builder](https://github.com/daizhouchen/resume-builder) — Claude skill: 5+1 阶段流程的简历导师 — 国际商务高级视觉调 + 内化的内容引擎（Spence 信号传递 / 金字塔原理 / 英雄之旅 / 文化资本） · `2026-05-07`
