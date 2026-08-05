@@ -4,21 +4,21 @@
 
 # 戴宙辰 Daizhouchen
 
-> AI 产品经理 / 独立实验者。现在在做 [Unitrade](https://unitrade.shop)（AI Native B2B）和一批小实验。
+> AI 产品经理 / 独立实验者。曾主导 [Unitrade](https://unitrade.shop)（AI Native B2B）创业（已告一段落），现在持续做一批小实验。
 
 用研究的方式做产品，用产品的方式做研究。完整作品集站点 → **[daizhouchen.github.io](https://daizhouchen.github.io)**
 
 ---
 
-## 现在在做
+## 主线项目
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <a href="https://unitrade.shop"><img src="assets/now-book-distiller.png" alt="Unitrade" width="100%"/></a>
       <h3>Unitrade · AI Native B2B</h3>
-      <p><a href="https://unitrade.shop"><code>unitrade.shop</code></a> · 创始合伙人</p>
-      <p>智能选品、跨境匹配、自动化询盘——把 B2B 国际贸易重新做一遍。这次所有 agent 都是 AI native 的。</p>
+      <p><a href="https://unitrade.shop"><code>unitrade.shop</code></a> · 创业经历（已告一段落）</p>
+      <p>一段完整的 B2B 跨境贸易创业：智能选品、跨境匹配、自动化询盘，agent 全部 AI native。创业期间平台上线运营。</p>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/daizhouchen/book-distiller"><img src="assets/now-jd-interview-prep.png" alt="Skill 系列" width="100%"/></a>
@@ -50,12 +50,12 @@
 | CoGEO 锚点解耦评测 🔒 | ICMR 2026：ESCI + Food-101 上的 4 路攻击对照评测 |
 | [ML-PD](https://github.com/daizhouchen/ML-PD) | 代谢组学数据 × 机器学习的帕金森病诊断 |
 
-### 🏗️ 产品工程 · UniTrade 全家桶与落地 MVP
+### 🏗️ 产品工程 · UniTrade 创业经历与落地 MVP
 
 | 项目 | 一句话 |
 |---|---|
-| UniTrade 商品数据底座 🔒 | 28 字段规范 + 866 节点分类树 + 9141 冷启动商品（[unitrade.shop](https://unitrade.shop)） |
-| UniTrade 平台源码与迁移 🔒 | Java 全栈源码 + 9141 件旧商品的迁移交付 |
+| UniTrade 商品数据底座 🔒 | 28 字段规范 + 866 节点分类树 + 9141 冷启动商品（创业期间上线 [unitrade.shop](https://unitrade.shop)） |
+| UniTrade 平台源码与迁移 🔒 | Java 全栈源码 + 9141 件旧商品的迁移交付（创业经历，已告一段落） |
 | 幕境 mujing 🔒 | 线下场地沉浸式活动引擎 MVP（TypeScript） |
 | 能力森林 🔒 | 感统轻训练微信小程序，已上线（CloudBase） |
 
@@ -88,7 +88,7 @@
 
 - 把 book-distiller 接入更多源（newsletters / paper PDFs / podcast 转录）
 - 多模态 RAG × 图学习方向的科研论文
-- Unitrade 的 agent 化询盘闭环
+- Skill 实验的下一阶段：从单点 Skill 到编排层
 - ……
 
 ---
@@ -98,13 +98,13 @@
 - **email** — `<待填工作邮箱>`
 - **wechat** — 见简历
 - **portfolio** — [daizhouchen.github.io](https://daizhouchen.github.io)
-- **blog** — [unitrade.shop](https://unitrade.shop)
+- **blog** — [作品集站点](https://daizhouchen.github.io)
 
 <details>
 <summary>关于这个 Profile 的设计</summary>
 
 按"实验现场"思路布局，不按"职业身份"。
-"现在在做"是主线，"作品集导览"是面试官入口，"刚做完"是节奏证据，"下一个"是方向感。
+"主线项目"是入口，"作品集导览"是面试官入口，"刚做完"是节奏证据，"下一个"是方向感。
 不要 trophies、不要 profile-views、不要满屏徽章——这些是 AI slop 的信号。
 
 视觉方向：**workbench-collage** · 米黄 + 工业灰 + 警示黄 + 红 · 错位拼贴 + 5px solid 阴影。
@@ -112,4 +112,4 @@
 
 </details>
 
-<!-- cache-bust: 2026-08-04 -->
+<!-- cache-bust: 2026-08-06 -->
