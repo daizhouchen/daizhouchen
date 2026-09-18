@@ -27,10 +27,10 @@
       <p>把书/电影/领域/JD 蒸馏成一张你愿意打开的网页。HTML 单文件、内含方法论框架，不是又一个 LLM 套壳。</p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/daizhouchen/prism-research"><img src="assets/now-prism-research.png" alt="多模态 RAG" width="100%"/></a>
-      <h3>多模态 RAG · 图学习</h3>
+      <a href="https://github.com/daizhouchen/HonestVGEO"><img src="assets/now-prism-research.png" alt="HonestVGEO / CoGEO" width="100%"/></a>
+      <h3>HonestVGEO / CoGEO</h3>
       <p>北理工 AI 硕在读</p>
-      <p>方向：大模型 × 图学习 × 多模态 RAG。参与过 llm-kg 军科委 + 国防科大合作。学术与工程之间的桥。</p>
+      <p>视觉 GEO 的锚点解耦评测与跨模型迁移探针。论文被 ICDM 2026 录用，唯一作者；代码与评测公开。</p>
     </td>
   </tr>
 </table>
@@ -45,9 +45,8 @@
 
 | 项目 | 一句话 |
 |---|---|
-| CoGEO 🔒 | VLM 引导的视觉检索优化框架：Recall@10 最高 +30.9pp，SSIM > 0.98。论文 + 代码 + 7 篇文档 |
-| HonestVGEO 🔒 | 锚点解耦的留出式评测协议 + CoGEO / AE-CoGEO 参考实现 |
-| CoGEO 锚点解耦评测 🔒 | ICMR 2026：ESCI + Food-101 上的 4 路攻击对照评测 |
+| [HonestVGEO / CoGEO](https://github.com/daizhouchen/HonestVGEO) | ICDM 2026 已录用（唯一作者）：视觉 GEO 的锚点解耦评测、白盒优化与跨模型迁移探针 |
+| [ScriptGraph](https://github.com/daizhouchen/scriptgraph-rag) | AI 影视：剧本知识图谱、带场次引用的 RAG、连续性审校与改稿影响分析 |
 | [ML-PD](https://github.com/daizhouchen/ML-PD) | 代谢组学数据 × 机器学习的帕金森病诊断 |
 
 ### 🏗️ 产品工程 · UniTrade 创业经历与落地 MVP
@@ -63,6 +62,7 @@
 
 | 仓库 | 一句话 |
 |---|---|
+| [FlowSpec](https://github.com/daizhouchen/flowspec-sft) | 中文任务 → 可校验 WorkflowSpec DAG：18 个工具、沙箱模拟与 Qwen3 QLoRA 管线 |
 | [superpm](https://github.com/daizhouchen/superpm) | 给 AI Agent 用的 spec 驱动项目管理：7 阶段生命周期 + 质量门 |
 | [openclaw-skills](https://github.com/daizhouchen/openclaw-skills) | 11 天 11 个 Skill 实验：10 个开发者工具 Skill 合集 |
 | [prism-research](https://github.com/daizhouchen/prism-research) | 棱镜研究：穿透式深度调研 → 可打印 HTML 报告 |
@@ -87,7 +87,8 @@
 ## 下一个
 
 - 把 book-distiller 接入更多源（newsletters / paper PDFs / podcast 转录）
-- 多模态 RAG × 图学习方向的科研论文
+- 完成 FlowSpec QLoRA 四组基线与关键测试集人工复核
+- 扩展 ScriptGraph 的版本差异与多人审校流程
 - Skill 实验的下一阶段：从单点 Skill 到编排层
 - ……
 
