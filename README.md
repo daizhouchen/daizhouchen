@@ -62,7 +62,7 @@
 
 | 仓库 | 一句话 |
 |---|---|
-| [FlowSpec](https://github.com/daizhouchen/flowspec-sft) | 中文任务 → 可校验 WorkflowSpec DAG：18 个工具、沙箱模拟与 Qwen3 QLoRA 管线 |
+| [FlowSpec](https://github.com/daizhouchen/flowspec-sft) | 中文任务 → 可校验 WorkflowSpec DAG：Qwen3-1.7B QLoRA 在固定测试集实现 100% Schema / DAG / 沙箱通过，语义结构较 few-shot +11.95pp（provisional） |
 | [superpm](https://github.com/daizhouchen/superpm) | 给 AI Agent 用的 spec 驱动项目管理：7 阶段生命周期 + 质量门 |
 | [openclaw-skills](https://github.com/daizhouchen/openclaw-skills) | 11 天 11 个 Skill 实验：10 个开发者工具 Skill 合集 |
 | [prism-research](https://github.com/daizhouchen/prism-research) | 棱镜研究：穿透式深度调研 → 可打印 HTML 报告 |
@@ -87,7 +87,7 @@
 ## 下一个
 
 - 把 book-distiller 接入更多源（newsletters / paper PDFs / podcast 转录）
-- 完成 FlowSpec QLoRA 四组基线与关键测试集人工复核
+- 完成 FlowSpec 标准测试集与挑战集的逐条人工复核，并继续优化未见组合的依赖拓扑
 - 扩展 ScriptGraph 的版本差异与多人审校流程
 - Skill 实验的下一阶段：从单点 Skill 到编排层
 - ……
