@@ -62,7 +62,7 @@
 
 | 仓库 | 一句话 |
 |---|---|
-| [FlowSpec](https://github.com/daizhouchen/flowspec-sft) | 中文任务 → 可校验 WorkflowSpec DAG：Qwen3-1.7B QLoRA 在固定测试集实现 100% Schema / DAG / 沙箱通过，语义结构较 few-shot +11.95pp（provisional） |
+| [FlowSpec](https://github.com/daizhouchen/flowspec-sft) | 中文任务 → 可校验 WorkflowSpec DAG：Qwen3-1.7B QLoRA 在固定测试集实现 100% Schema / DAG / 沙箱通过，语义结构较 few-shot +11.95pp；[Adapter 与 GGUF](https://github.com/daizhouchen/flowspec-sft/releases/tag/v1.0.0-models) 已发布（provisional） |
 | [superpm](https://github.com/daizhouchen/superpm) | 给 AI Agent 用的 spec 驱动项目管理：7 阶段生命周期 + 质量门 |
 | [openclaw-skills](https://github.com/daizhouchen/openclaw-skills) | 11 天 11 个 Skill 实验：10 个开发者工具 Skill 合集 |
 | [prism-research](https://github.com/daizhouchen/prism-research) | 棱镜研究：穿透式深度调研 → 可打印 HTML 报告 |
