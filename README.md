@@ -39,17 +39,16 @@
 
 ## 作品集导览
 
-三条主线，按面试官的阅读顺序排列。商业与研究敏感项目以私有仓库承载（标 🔒，可沟通后提供访问）。
+四类内容，按面试官的阅读顺序排列。商业与研究敏感项目以私有仓库承载（标 🔒，可沟通后提供访问）。
 
-### 🔬 AI 研究 · 多模态 RAG 与视觉 GEO
+### 🔬 AI 研究
 
 | 项目 | 一句话 |
 |---|---|
 | [HonestVGEO / CoGEO](https://github.com/daizhouchen/HonestVGEO) | ICDM 2026 已录用（唯一作者）：视觉 GEO 的锚点解耦评测、白盒优化与跨模型迁移探针 |
-| [ScriptGraph](https://github.com/daizhouchen/scriptgraph-rag) | AI 影视：剧本知识图谱、带场次引用的 RAG、连续性审校与改稿影响分析 |
 | [ML-PD](https://github.com/daizhouchen/ML-PD) | 代谢组学数据 × 机器学习的帕金森病诊断 |
 
-### 🏗️ 产品工程 · UniTrade 创业经历与落地 MVP
+### 🏗️ 产品作品 · 创业经历与落地 MVP
 
 | 项目 | 一句话 |
 |---|---|
@@ -58,11 +57,17 @@
 | 幕境 mujing 🔒 | 线下场地沉浸式活动引擎 MVP（TypeScript） |
 | 能力森林 🔒 | 感统轻训练微信小程序，已上线（CloudBase） |
 
-### 🤖 AI Agent 工程 · Claude Code Skills（全部公开）
+### 🧪 技术项目 · 模型、检索与工程部署
+
+| 项目 | 一句话 |
+|---|---|
+| [ScriptGraph](https://github.com/daizhouchen/scriptgraph-rag) | AI 影视技术项目：剧本知识图谱、带场次引用的 RAG、连续性审校与改稿影响分析 |
+| [FlowSpec](https://github.com/daizhouchen/flowspec-sft) | 中文任务 → 可校验 WorkflowSpec DAG：完成 Qwen3-1.7B QLoRA、四组实验与 GGUF 部署；[模型产物](https://github.com/daizhouchen/flowspec-sft/releases/tag/v1.0.0-models)已公开（provisional） |
+
+### 🤖 AI Agent 工具 · Claude Code Skills（全部公开）
 
 | 仓库 | 一句话 |
 |---|---|
-| [FlowSpec](https://github.com/daizhouchen/flowspec-sft) | 中文任务 → 可校验 WorkflowSpec DAG：Qwen3-1.7B QLoRA 在固定测试集实现 100% Schema / DAG / 沙箱通过，语义结构较 few-shot +11.95pp；[Adapter 与 GGUF](https://github.com/daizhouchen/flowspec-sft/releases/tag/v1.0.0-models) 已发布（provisional） |
 | [superpm](https://github.com/daizhouchen/superpm) | 给 AI Agent 用的 spec 驱动项目管理：7 阶段生命周期 + 质量门 |
 | [openclaw-skills](https://github.com/daizhouchen/openclaw-skills) | 11 天 11 个 Skill 实验：10 个开发者工具 Skill 合集 |
 | [prism-research](https://github.com/daizhouchen/prism-research) | 棱镜研究：穿透式深度调研 → 可打印 HTML 报告 |
