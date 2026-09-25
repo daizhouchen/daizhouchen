@@ -48,10 +48,11 @@
 | [HonestVGEO / CoGEO](https://github.com/daizhouchen/HonestVGEO) | ICDM 2026 已录用（唯一作者）：视觉 GEO 的锚点解耦评测、白盒优化与跨模型迁移探针 |
 | [ML-PD](https://github.com/daizhouchen/ML-PD) | 代谢组学数据 × 机器学习的帕金森病诊断 |
 
-### 🏗️ 产品作品 · 创业经历与落地 MVP
+### 🏗️ 产品作品 · 创业经历、落地 MVP 与交互原型
 
 | 项目 | 一句话 |
 |---|---|
+| [雾屿来信 · AI 陪伴原型](https://github.com/daizhouchen/mist-island-demo) | 用户故事成为航线，角色同行，跨日记忆支持纠错与删除；预设情境交互原型，未接入真实大模型。[在线 Demo](https://daizhouchen.github.io/mist-island-demo/) · [产品展示页](https://daizhouchen.github.io/demo/mist-island.html) |
 | UniTrade 商品数据底座 🔒 | 28 字段规范 + 866 节点分类树 + 9141 冷启动商品（创业期间上线 [unitrade.shop](https://unitrade.shop)） |
 | UniTrade 平台源码与迁移 🔒 | Java 全栈源码 + 9141 件旧商品的迁移交付（创业经历，已告一段落） |
 | 幕境 mujing 🔒 | 线下场地沉浸式活动引擎 MVP（TypeScript） |
